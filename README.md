@@ -1,2 +1,2 @@
 # MutualMart
-Learning Prject
+Learning Project
